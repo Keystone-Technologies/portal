@@ -1,14 +1,25 @@
-<h1>Development</h1>
-<a href="http://couchdb.dev.kit.cm/_utils">CouchDB</a><br>
-<a href="http://dt.dev.kit.cm">Decision Tree</a><br>
-<a href="http://i70.dev.kit.cm">I70 Demonstration</a><br>
-<a href="http://kms.dev.kit.cm">KMS</a><br>
-<!-- <a href="http://pi.dev.kit.cm">Pi</a><br> -->
-<a href="http://rtc.dev.kit.cm">Reading the City</a><br>
-<a href="http://rescue.dev.kit.cm">LogMeIn Rescue</a><br>
-<a href="http://commons.dev.kit.cm">KT Commons</a><br>
-<a href="http://auth.kit.cm">AuthAnvil (Production)</a><br>
-<a href="http://support.dev.kit.cm">Autotask Client Portal</a><br>
-<a href="http://at.dev.kit.cm">Autotask Metrics</a><br>
-<a href="http://continuum.dev.kit.cm">Proxy to http://itsupport247.net</a><br>
-<a href="http://autotask.dev.kit.cm">Proxy to http://ww5.autotask.net</a><br>
+<html>
+  <head>
+    <title>Keystone Project Portal</title>
+  </head>
+  <body>
+    <h1>Supporting Infrastructure</h1>
+    <a href="https://github.com/KeystoneIT">GitHub Repo</a><br>
+    <a href="http://couchdb.dev.kit.cm/_utils">CouchDB</a><br>
+    <h1>Development Projects</h1>
+    <a href="http://dt.dev.kit.cm">Decision Tree</a><br>
+    <a href="http://i70.dev.kit.cm">I70 Demonstration</a><br>
+    <a href="http://kms.dev.kit.cm">KMS</a><br>
+    <!-- <a href="http://pi.dev.kit.cm">Pi</a><br> -->
+    <a href="http://rtc.dev.kit.cm">Reading the City</a><br>
+    <a href="http://rescue.dev.kit.cm">LogMeIn Rescue</a><br>
+    <a href="http://commons.dev.kit.cm">KT Commons</a><br>
+    <a href="http://support.dev.kit.cm">Autotask Client Portal</a><br>
+    <h1>Other projects</h1>
+    <a href="http://at.dev.kit.cm">Autotask Metrics</a><br>
+    <h1>Proxy only</h1>
+    <a href="http://auth.kit.cm">AuthAnvil (Production)</a><br>
+    <a href="http://continuum.dev.kit.cm">Proxy to http://itsupport247.net</a><br>
+    <a href="http://autotask.dev.kit.cm">Proxy to http://ww5.autotask.net</a><br>
+  </body>
+</html>
