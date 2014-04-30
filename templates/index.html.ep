@@ -9,17 +9,19 @@
     <h1>Development Projects</h1>
     <a href="http://dt.dev.kit.cm">Decision Tree</a><br>
     <a href="http://i70.dev.kit.cm">I70 Demonstration</a><br>
-    <a href="http://kms.dev.kit.cm">KMS</a><br>
-    <!-- <a href="http://pi.dev.kit.cm">Pi</a><br> -->
-    <a href="http://rtc.dev.kit.cm">Reading the City</a><br>
+    <a href="http://pi.dev.kit.cm">Pi</a><br>
+    <a href="http://rtc.dev.kit.cm">Reading the City API</a> and <a href="http://invis.io/5WS9FB98">Reading the City Phone App</a><br>
+    <a href="http://dropzone.dev.kit.cm">Dropzone File Sharing</a><br>
+    <a href="http://commons.dev.kit.cm">KT Commons Dashboard</a><br>
+    <h1>Branding Projects</h1>
     <a href="http://rescue.dev.kit.cm">LogMeIn Rescue</a><br>
-    <a href="http://commons.dev.kit.cm">KT Commons</a><br>
+    <a href="http://kms.dev.kit.cm">KMS</a><br>
     <a href="http://support.dev.kit.cm">Autotask Client Portal</a><br>
-    <h1>Other projects</h1>
-    <a href="http://at.dev.kit.cm">Autotask Metrics</a><br>
     <h1>Proxy only</h1>
     <a href="http://auth.kit.cm">AuthAnvil (Production)</a><br>
     <a href="http://continuum.dev.kit.cm">Proxy to http://itsupport247.net</a><br>
     <a href="http://autotask.dev.kit.cm">Proxy to http://ww5.autotask.net</a><br>
+    <h1>Other projects</h1>
+    <a href="http://at.dev.kit.cm">Autotask Metrics</a><br>
   </body>
 </html>
